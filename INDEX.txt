@@ -1,0 +1,15 @@
+le lien du video original:
+https://www.youtube.com/watch?v=qot8faKKV-g
+
+et les mots aue jutilise pour traduire en francais:
+
+
+vertices = sommets
+mostrar grafica = afficher_graphique
+arista = arete
+obtener camino = obtener_chemin
+actual = encours
+camino =chemin
+minimo = minimum
+lista =liste
+no_visitados = non_visites
