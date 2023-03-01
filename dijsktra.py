@@ -1,3 +1,7 @@
+# dans la cmd ou anaconda Shell installer
+# pip install matplotlib
+# pip install networkx
+
 import networkx as nx
 import matplotlib.pyplot as plt
 
